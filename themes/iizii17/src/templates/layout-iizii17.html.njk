@@ -1,0 +1,13 @@
+{% extends "layout-default.html.njk" %}
+
+{%- block headStyles -%}
+  <link href="{{ trail }}dist/styles/test.css" rel="stylesheet">
+{%- endblock -%}
+
+{%- block footScripts -%}
+  <script src="{{ trail }}src/bower_components/elemental-core/dist/scripts/elemental-core.js"></script>
+  <script src="{{ trail }}dist/scripts/iizii17.js"></script>
+  <script type="text/javascript">
+    // Inline scripts to initialize iizii17 go here.
+  </script>
+{%- endblock -%}

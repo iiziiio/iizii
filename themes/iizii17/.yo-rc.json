@@ -1,0 +1,20 @@
+{
+  "generator-elemental-component": {
+    "gitInfo": {
+      "name": "Erik Baldwin",
+      "email": "ThatGuy@CLoudNYNEDesign.com",
+      "github": "ThatGuyCND"
+    },
+    "userInputs": {
+      "componentName": "iizii17",
+      "componentDescription": "A theme for iizii.io.",
+      "componentVersion": "0.0.1",
+      "authorName": "Erik Baldwin",
+      "authorEmail": "ThatGuy@CLoudNYNEDesign.com",
+      "githubUsername": "ThatGuyCND",
+      "gitRepoAddress": "https://github.com/iiziiio/iizii",
+      "satisfied": true
+    },
+    "bowerDeps": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "dest": "./static",
+  "src": "./src",
+  "name": "iizii17",
+  "test": "./tests",
+  "sassLoadPath": [
+    "./src/styles",
+    "./src/bower_components/*/src/styles"
+  ],
+  "templatesMetadata": {
+    "page": {
+      "title": "iizii17 Examples"
+    }
+  },
+  "templates": {
+    "default": "layout-iizii17.html.njk",
+    "directories": [
+      "./node_modules/acquia-gulp/src/templates/pages",
+      "./src/templates"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    compass-import-once (1.0.5)
+      sass (>= 3.2, < 3.5)
+    rainbow (2.0.0)
+    sass (3.4.18)
+    scss_lint (0.41.0)
+      rainbow (~> 2.0)
+      sass (~> 3.4.15)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  compass-import-once
+  sass
+  scss_lint

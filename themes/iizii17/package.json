@@ -1,0 +1,34 @@
+{
+  "name": "iizii17",
+  "version": "0.0.1",
+  "description": "A theme for iizii.io",
+  "main": "gulpfile.js",
+  "scripts": {
+    "postinstall": "bower install; bundle install",
+    "test": "echo \"Warning: no test specified by the package file.\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThatGuyCND/ebdotcom"
+  },
+  "keywords": [
+    "elemental"
+  ],
+  "author": "Erik Baldwin <ThatGuy@CLoudNYNEDesign.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThatGuyCND/ebdotcom/issues"
+  },
+  "homepage": "https://github.com/ThatGuyCND/ebdotcom",
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "dependencies": {
+    "acquia-gulp": "acquia/acquia-gulp#v0.4.1",
+    "bower": "^1.7.9",
+    "cz-conventional-changelog": "^1.1.6",
+    "gulp": "^3.9.1"
+  }
+}

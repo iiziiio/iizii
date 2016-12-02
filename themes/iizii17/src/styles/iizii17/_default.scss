@@ -1,0 +1,45 @@
+////
+/// Generate the default styles for component.
+///
+/// @group iizii17
+////
+
+@import 'iizii17/base';
+
+* {
+  &,
+  &::before,
+  &::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+a {
+  @extend %link;
+}
+
+html {
+  color: $html-bg;
+  font: normal 16px sans-serif;
+}
+
+.masthead {
+  @extend %header;
+}
+
+.navigation {
+  &,
+  &__primary {
+    @extend %navigation;
+  }
+
+  &__item {
+    @extend %navigation__item;
+  }
+
+  &__link {
+    @extend %navigation__link;
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "iizii17",
+  "version": "0.0.1",
+  "description": "A theme for iizii.io",
+  "authors": [
+    "Erik Baldwin <ThatGuy@CLoudNYNEDesign.com>"
+  ],
+  "keywords": [
+    "erik baldwin",
+    "bladwin"
+  ],
+  "private": true,
+  "license": "MIT",
+    "homepage": "https://github.com/iiziiio/iizii",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "modernizr": "~2.8.3"
+  }
+}

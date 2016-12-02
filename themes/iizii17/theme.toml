@@ -1,0 +1,10 @@
+name = "iizii17"
+license = "Copyright © CLoud NYNE Design, LLC"
+description = "This is iizii.io."
+tags = ["contact form"]
+features = ["about section", "lifetime career goals section - my, how zealous.", "contact form"]
+min_version = 0.15
+
+[author]
+  name = "ThatGuyCND"
+  homepage = "//github.com/ThatGuyCND"

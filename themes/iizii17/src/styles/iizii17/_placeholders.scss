@@ -1,0 +1,52 @@
+////
+/// Placeholder classes of pregenerated styles that can be extended onto other
+/// classes.
+///
+/// @group iizii17
+////
+
+%link {
+  color: inherit;
+  cursor: pointer;
+  opacity: .9;
+  text-decoration: none;
+
+  &:focus,
+  &:hover {
+    opacity: 1;
+  }
+}
+
+%header {
+  align-items: center;
+  background-color: rgba($black, .4);
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+  padding: .875rem;
+  z-index: 10;
+}
+
+%navigation {
+  display: flex;
+
+  &__item {
+    list-style: none outside none;
+    margin: 0 1rem;
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  &__link {
+    color: $true-white;
+  }
+
+}
+
+%section__title {}

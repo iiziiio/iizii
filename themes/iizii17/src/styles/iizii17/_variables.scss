@@ -1,0 +1,19 @@
+////
+/// Variables to allow simple customization of component styles.
+///
+/// @group iizii17
+////
+
+/// Set the prefix string to append to default iizii17 classes.
+///
+/// @type string
+$iizii17-prefix: iizii17 !default;
+
+$html-bg: #555 !default;
+
+/// Colors
+$true-white: #ffffff;
+$true-black: #000000;
+
+$white: #aaaaaa;
+$black: #111111;

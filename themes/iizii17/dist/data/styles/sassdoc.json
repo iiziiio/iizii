@@ -1,0 +1,57 @@
+{
+  "iizii17": {
+    "variable": [
+      {
+        "description": "Set the prefix string to append to default iizii17 classes.\n\n",
+        "commentRange": {
+          "start": 7,
+          "end": 9
+        },
+        "context": {
+          "type": "variable",
+          "name": "iizii17-prefix",
+          "value": "iizii17",
+          "scope": "default",
+          "line": {
+            "start": 10,
+            "end": 10
+          }
+        },
+        "type": "string",
+        "group": [
+          "iizii17"
+        ],
+        "access": "public",
+        "file": {
+          "path": "iizii17/_variables.scss",
+          "name": "_variables.scss"
+        }
+      },
+      {
+        "description": "Colors\n",
+        "commentRange": {
+          "start": 14,
+          "end": 14
+        },
+        "context": {
+          "type": "variable",
+          "name": "true-white",
+          "value": "#ffffff",
+          "scope": "private",
+          "line": {
+            "start": 15,
+            "end": 15
+          }
+        },
+        "group": [
+          "iizii17"
+        ],
+        "access": "public",
+        "file": {
+          "path": "iizii17/_variables.scss",
+          "name": "_variables.scss"
+        }
+      }
+    ]
+  }
+}
