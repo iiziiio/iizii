@@ -26,7 +26,6 @@
     }
   },
   "dependencies": {
-    "acquia-gulp": "acquia/acquia-gulp#v0.4.1",
     "bower": "^1.7.9",
     "cz-conventional-changelog": "^1.1.6",
     "gulp": "^3.9.1"
