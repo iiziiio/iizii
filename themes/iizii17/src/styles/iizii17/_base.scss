@@ -4,13 +4,6 @@
 /// @group iizii17
 ////
 
-// Include dependencies.
-@import 'elemental-core';
-
-// Generate general style placholders from elemental-core if they have not
-// already been generated.
-@include generate-placeholders;
-
 // Include iizii17 libraries.
 @import 'iizii17/variables';
 @import 'iizii17/functions';

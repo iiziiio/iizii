@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ThatGuyCND/ebdotcom"
+    "url": "https://github.com/iiziiio/iizii17"
   },
   "keywords": [
     "elemental"
@@ -17,9 +17,9 @@
   "author": "Erik Baldwin <ThatGuy@CLoudNYNEDesign.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ThatGuyCND/ebdotcom/issues"
+    "url": "https://github.com/iiziiio/iizii17/issues"
   },
-  "homepage": "https://github.com/ThatGuyCND/ebdotcom",
+  "homepage": "https://github.com/iiziiio/iizii17",
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"

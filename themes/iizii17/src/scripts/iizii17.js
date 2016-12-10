@@ -4,3 +4,7 @@
  *
  * @group iizii17
  */
+
+ (function ($) {
+   'use strict';
+ }) ();
